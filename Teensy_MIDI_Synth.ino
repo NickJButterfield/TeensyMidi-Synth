@@ -1,5 +1,7 @@
 // Thank you for taking an interest in my code! Feel free to modify it to your pleasing, I recognise this isn't the most efficient method.
 // A big thank you to little-scale for personally helping me with this project.
+// Keep in mind this code is meant for a teensy 3.6, which is not only optimised for MIDI uses, but also has code that can ONLY work with teensy devices.
+// Every pin listed, wether digital or analog is simply my preference and what works with my current breadboard set up, they can be changed
 
 //includes libraries
 #include <Bounce2.h>
